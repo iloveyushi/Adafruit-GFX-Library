@@ -1478,6 +1478,3 @@ void Adafruit_GFX::drawEllipse(int16_t x0, int16_t y0, int16_t rx, int16_t ry, u
         y--;
     }
 }
-
-
-
